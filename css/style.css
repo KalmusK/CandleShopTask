@@ -11,7 +11,7 @@ body {
 }
 
 .intro-image {
-    background-image: url('/images/image4.jpeg');
+    background-image: url('images/image4.jpeg');
     background-position: center;
     background-size: cover;
     height: 600px;
@@ -84,7 +84,7 @@ body {
 }
 
 .packaging-image {
-    background-image: url('/images/image2.jpeg');
+    background-image: url('images/image2.jpeg');
     background-position: center;
     background-size: cover;
     height: 600px;
@@ -136,7 +136,7 @@ body {
 }
 
 .tutorials-image {
-    background-image: url('/images/image3.jpeg');
+    background-image: url('images/image3.jpeg');
     background-position: center;
     background-size: cover;
     height: 600px;
